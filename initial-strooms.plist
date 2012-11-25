@@ -5,7 +5,7 @@
 	<key>1</key>
 	<dict>
 		<key>url</key>
-		<string>http://www.picstroom.com/RSS/intro.xml</string>
+		<string>http://picstroom.com/RSS/intro.xml</string>
 	</dict>
 	<key>2</key>
 	<dict>
@@ -22,11 +22,5 @@
 		<key>url</key>
 		<string>http://feeds.feedburner.com/SomeoneOnceToldMe</string>
 	</dict>
-	<key>5</key>
-	<dict>
-		<key>url</key>
-		<string>feed://api.flickr.com/services/feeds/photoset.gne?set=72157626798621672&amp;nsid=60521770@N07&amp;lang=en-us&amp;format=atom</string>
-	</dict>
-
 </dict>
 </plist>
