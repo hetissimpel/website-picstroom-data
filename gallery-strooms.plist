@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>category</key>
+		<string>About PicStroom</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>See all PicStrooms features and start using PicStroom immediately</string>
+			<key>name</key>
+			<string>Introducing PicStroom</string>
+			<key>url</key>
+			<string>http://www.picstroom.com/RSS/intro.xml</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>We choose every day our favorite Pic from the Gallery</string>
+			<key>name</key>
+			<string>Picstroom Picture of the Day</string>
+			<key>url</key>
+			<string>feed://api.flickr.com/services/feeds/photoset.gne?set=72157626798621672&amp;nsid=60521770@N07&amp;lang=en-us&amp;format=atom</string>
+		</dict>
+	</dict>
+	
+	<key>2</key>
+	<dict>
+		<key>category</key>
+		<string>Architecture</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Sparked the idea for PicStroom - daily beautiful interiors</string>
+			<key>name</key>
+			<string>Desire to inspire - desiretoinspire.net</string>
+			<key>url</key>
+			<string>http://www.desiretoinspire.net/blog/rss.xml</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>Astonishing Architecture multiple times per day</string>
+			<key>name</key>
+			<string>ArchDaily</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/ArchDaily?format=xml</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>Interior Design and Architecture</string>
+			<key>name</key>
+			<string>Freshome</string>
+			<key>url</key>
+			<string>feed://freshome.com/feed/</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>description</key>
+			<string>A variety of life and work</string>
+			<key>name</key>
+			<string>Herman Miller: Lifework</string>
+			<key>url</key>
+			<string>feed://www.hermanmiller.com/lifework/index.php/?feed=rss2</string>
+		</dict>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>category</key>
+		<string>Fashion</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Fascinating fashion from the street</string>
+			<key>name</key>
+			<string>The Sartorialist</string>
+			<key>url</key>
+			<string>http://feeds.feedburner.com/TheSartorialist</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>Always wanted to know whats the fashion in dresses?</string>
+			<key>name</key>
+			<string>Your next dress</string>
+			<key>url</key>
+			<string>feed://www.yournextdress.com/feed/</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>Bags, shoes and man style - a weird selection</string>
+			<key>name</key>
+			<string>My MANy Bags</string>
+			<key>url</key>
+			<string>feed://mymanybags.blogspot.com/feeds/posts/default?alt=rss</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>description</key>
+			<string>The latest in editorials and campaigns</string>
+			<key>name</key>
+			<string>Fashion Gone Rogue</string>
+			<key>url</key>
+			<string>feed://fashiongonerogue.com/feed/</string>
+		</dict>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>category</key>
+		<string>Collections of inspiration</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Another daily stream which sparked our App inspiration</string>
+			<key>name</key>
+			<string>SomeOneOnceToldMe.com</string>
+			<key>url</key>
+			<string>http://feeds.feedburner.com/SomeoneOnceToldMe</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>A continous flow of inspiration</string>
+			<key>name</key>
+			<string>Ffffound</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/ffffound/everyone</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>Synonymous with seeking inspiration</string>
+			<key>name</key>
+			<string>Cool Hunting</string>
+			<key>url</key>
+			<string>feed://www.coolhunting.com/index.xml</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>description</key>
+			<string>Graphical illustrations at its best</string>
+			<key>name</key>
+			<string>Grain edit</string>
+			<key>url</key>
+			<string>feed://grainedit.com/feed/</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>description</key>
+			<string>A variety of illustrations, photography and art</string>
+			<key>name</key>
+			<string>Booooooom!</string>
+			<key>url</key>
+			<string>feed://www.booooooom.com/feed/</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>description</key>
+			<string>Daily dose of inspiration</string>
+			<key>name</key>
+			<string>Fubiz</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/fubiz</string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>description</key>
+			<string>Curiosity for finding what's new &amp; better</string>
+			<key>name</key>
+			<string>Noupe</string>
+			<key>url</key>
+			<string>feed://www.noupe.com/feed</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>description</key>
+			<string>NEW - Fancy is the coolest of cool</string>
+			<key>name</key>
+			<string>Fancy</string>
+			<key>url</key>
+			<string>feed://www.thefancy.com/rss/homepage</string>
+		</dict>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>category</key>
+		<string>Design</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>If you could get an overkill of inspiration, it would be here</string>
+			<key>name</key>
+			<string>Abduzeedo</string>
+			<key>url</key>
+			<string>http://feeds.feedburner.com/abduzeedo</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>Show and tell for creatives. Detailed small high adrenaline shots</string>
+			<key>name</key>
+			<string>Dribbble - What are you working on?</string>
+			<key>url</key>
+			<string>http://dribbble.com/shots/everyone.rss</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>Design - the name says it all - interesting weirdos</string>
+			<key>name</key>
+			<string>MocoLoco</string>
+			<key>url</key>
+			<string>feed://mocoloco.com/index.rdf</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>description</key>
+			<string>Gathering point for designers and enthusiasts alike</string>
+			<key>name</key>
+			<string>Core77</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/core77/blog</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>description</key>
+			<string>Who said print is dead?</string>
+			<key>name</key>
+			<string>FPO: For Print Only</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/ucllc/fpo</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>description</key>
+			<string>Opinions on Brand and Corporate Identity</string>
+			<key>name</key>
+			<string>Brand New</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/ucllc/brandnew</string>
+		</dict>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>category</key>
+		<string>Photography</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Every day a HDR photo</string>
+			<key>name</key>
+			<string>Stuck in Customs</string>
+			<key>url</key>
+			<string>http://www.stuckincustoms.com/feed/</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>What would you be without seeing the big picture?</string>
+			<key>name</key>
+			<string>The Big Picture - Boston.com</string>
+			<key>url</key>
+			<string>http://feeds.boston.com/boston/bigpicture/index</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>Daily news in photos</string>
+			<key>name</key>
+			<string>msnbc.com Photo blog</string>
+			<key>url</key>
+			<string>http://photoblog.msnbc.msn.com/_feeds/rss2/author</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>description</key>
+			<string>NEW - Moving photo collages of past and present - Kudos!</string>
+			<key>name</key>
+			<string>Dear Photograph</string>
+			<key>url</key>
+			<string>feed://dearphotograph.com/rss</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>description</key>
+			<string>NEW - Images on 500px are almost too perfect </string>
+			<key>name</key>
+			<string>500px - Popular</string>
+			<key>url</key>
+			<string>feed://feed.500px.com/500px-best</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>description</key>
+			<string>NEW - Editors choice of almost too perfect pictures</string>
+			<key>name</key>
+			<string>500px - Editors Choice</string>
+			<key>url</key>
+			<string>feed://feed.500px.com/500px-editors</string>
+		</dict>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>category</key>
+		<string>Typography</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Another of our favorites - They are true to their name</string>
+			<key>name</key>
+			<string>I love Typography</string>
+			<key>url</key>
+			<string>feed://feedproxy.google.com/ILoveTypography</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>Focused on typography, graphic design and inspirational matters</string>
+			<key>name</key>
+			<string>Swiss Legacy</string>
+			<key>url</key>
+			<string>feed://swisslegacy.com/feed/atom/</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>About fonts, typography and graphic design</string>
+			<key>name</key>
+			<string>Nice Type</string>
+			<key>url</key>
+			<string>feed://nicetype.blogspot.com/feeds/posts/default?alt=rss</string>
+		</dict>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>category</key>
+		<string>Daily inspiration</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Daily photography celebrating the art and culture of photography</string>
+			<key>name</key>
+			<string>Flak Photo Gallery </string>
+			<key>url</key>
+			<string>http://feeds.feedburner.com/FlakPhoto</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>Who thought Seattle could produce these kind of images…</string>
+			<key>name</key>
+			<string>Bing</string>
+			<key>url</key>
+			<string>http://feeds.feedburner.com/bingimages</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>Their name is as weird as what they find</string>
+			<key>name</key>
+			<string>Quipsologies</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/ucllc/quipsologies</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>description</key>
+			<string>Every day another shot from the street of Amsterdam</string>
+			<key>name</key>
+			<string>Schlijper.nl</string>
+			<key>url</key>
+			<string>feed://schlijper.nl/rss.cfm</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>description</key>
+			<string>NEW - Cars cars cars</string>
+			<key>name</key>
+			<string>Driven</string>
+			<key>url</key>
+			<string>feed://driven.urbandaddy.com/feed/atom</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>description</key>
+			<string>NEW - Cool stuf - Cars - Girls - Watches - And more</string>
+			<key>name</key>
+			<string>Where is the Cool?</string>
+			<key>url</key>
+			<string>feed://whereisthecool.com/rss</string>
+		</dict>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>category</key>
+		<string>Comics</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Week day updates from the office</string>
+			<key>name</key>
+			<string>Dilbert</string>
+			<key>url</key>
+			<string>feed://feed.dilbert.com/dilbert/daily_strip?format=xml</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>Discusses the history of the American newspaper comic strip.</string>
+			<key>name</key>
+			<string>Stripper's Guide</string>
+			<key>url</key>
+			<string>feed://strippersguide.blogspot.com/feeds/posts/default?alt=rss</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>Comic Books, Movies and TV News and Rumors</string>
+			<key>name</key>
+			<string>Bleeding Cool</string>
+			<key>url</key>
+			<string>feed://www.bleedingcool.com/feed/</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>description</key>
+			<string>Anime Blog</string>
+			<key>name</key>
+			<string>Sea Slugs!</string>
+			<key>url</key>
+			<string>feed://www.seaslugteam.com/feed/</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>description</key>
+			<string>Daily source of inspiration for illustration, animation, cartooning, and comic art.</string>
+			<key>name</key>
+			<string>Drawn</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/drawn</string>
+		</dict>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>category</key>
+		<string>Food</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Cookie decoration and more!</string>
+			<key>name</key>
+			<string>Bake at 350</string>
+			<key>url</key>
+			<string>http://feeds.feedburner.com/bakeat350blog/</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>Delicious photography and recipies</string>
+			<key>name</key>
+			<string>Smitten kitchen</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/smittenkitchen</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>They graze the web for great pictures and recipes</string>
+			<key>name</key>
+			<string>Seriouseats - Photgrazing</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/seriouseats/photograzing</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>description</key>
+			<string>Real food for the family table</string>
+			<key>name</key>
+			<string>Simple Bites</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/simplebites</string>
+		</dict>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>category</key>
+		<string>Art</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Newspaper + Marker = Poetry</string>
+			<key>name</key>
+			<string>Newspaper Blackout</string>
+			<key>url</key>
+			<string>feed://newspaperblackout.com/rss</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>
+			</string>
+			<key>name</key>
+			<string>Contemporary Art Daily</string>
+			<key>url</key>
+			<string>feed://www.contemporaryartdaily.com/feed/</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>Papercutting</string>
+			<key>name</key>
+			<string>A Little Hut</string>
+			<key>url</key>
+			<string>feed://alittlehut.blogspot.com/feeds/posts/default?alt=rss</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>description</key>
+			<string>NEW - Lots of nice graphical work</string>
+			<key>name</key>
+			<string>Corner of Art</string>
+			<key>url</key>
+			<string>feed://www.cornerofart.com/feed/</string>
+		</dict>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>category</key>
+		<string>Information Design</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Where Arts Meets Data</string>
+			<key>name</key>
+			<string>FlowingData</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/FlowingData</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>Infrequently updated blog post but beautiful posts</string>
+			<key>name</key>
+			<string>Information is Beautiful</string>
+			<key>url</key>
+			<string>feed://feeds.feedburner.com/InformationIsBeautiful</string>
+		</dict>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>category</key>
+		<string>Nature</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>Can&apos;t be missed </string>
+			<key>name</key>
+			<string>National Geographic - Photo of the day</string>
+			<key>url</key>
+			<string>http://feeds.nationalgeographic.com/ng/photography/photo-of-the-day/</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>Photography</string>
+			<key>name</key>
+			<string>Adrian Petrisor</string>
+			<key>url</key>
+			<string>feed://adypetrisor.blogspot.com/feeds/posts/default?alt=rss</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>Photograph it all, enjoy it all, learn from it all</string>
+			<key>name</key>
+			<string>Photogeneralist.com</string>
+			<key>url</key>
+			<string>feed://photogeneralist.com/?feed=rss2</string>
+		</dict>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>category</key>
+		<string>Space</string>
+		<key>1</key>
+		<dict>
+			<key>description</key>
+			<string>His true love is praising the wonders of real science.</string>
+			<key>name</key>
+			<string>Bad Astronomy</string>
+			<key>url</key>
+			<string>feed://blogs.discovermagazine.com/badastronomy/feed/</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>description</key>
+			<string>One image per day - Stream starts slow with only one image but grows on you</string>
+			<key>name</key>
+			<string>NASA image of the Day</string>
+			<key>url</key>
+			<string>feed://www.nasa.gov/rss/image_of_the_day.rss</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>description</key>
+			<string>High tech from/for outer space</string>
+			<key>name</key>
+			<string>NASA Space news</string>
+			<key>url</key>
+			<string>feed://spacestation-shuttle.blogspot.com/feeds/posts/default?alt=rss</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
